@@ -28,7 +28,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src="prework.gif" width="400" height="400" />
+<img src="prework.gif" width="600" height="600" />
 
 
 ## Notes
